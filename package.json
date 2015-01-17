@@ -1,0 +1,17 @@
+{
+  "name": "naipe",
+  "version": "1.0.0",
+  "description": "Generate & manage decks of cards. Includes Microsoft-compatible shuffling algorithm.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random-js": "^1.0.4"
+  }
+}
